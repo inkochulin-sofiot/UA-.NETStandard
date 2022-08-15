@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFrameworks>$(TestsTargetFrameworks)</TargetFrameworks>
+    <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Opc.Ua.Server.Tests</RootNamespace>
     <GenerateProgramFile>false</GenerateProgramFile>    
   </PropertyGroup>

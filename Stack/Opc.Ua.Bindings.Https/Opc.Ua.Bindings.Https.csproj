@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>$(HttpsTargetFrameworks)</TargetFrameworks>
+    <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>Opc.Ua.Bindings.Https</AssemblyName>
     <PackageId>OPCFoundation.NetStandard.Opc.Ua.Bindings.Https</PackageId>
     <RootNamespace>Opc.Ua.Bindings</RootNamespace>

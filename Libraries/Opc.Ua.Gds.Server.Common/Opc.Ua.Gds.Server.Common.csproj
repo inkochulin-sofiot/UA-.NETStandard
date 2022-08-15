@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <AssemblyName>Opc.Ua.Gds.Server.Common</AssemblyName>
-    <TargetFrameworks>$(LibTargetFrameworks)</TargetFrameworks>
+    <TargetFramework>net6.0</TargetFramework>
     <PackageId>OPCFoundation.NetStandard.Opc.Ua.Gds.Server.Common</PackageId>
     <RootNamespace>Opc.Ua.Gds.Server</RootNamespace>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
